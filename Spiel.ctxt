@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Spiel
+comment1.params=
+comment1.target=Spiel()
+comment1.text=\r\n\ Konstruiere\ ein\ neues\ Spiel,\ starte\ dies\ Aber\ noch\ nicht\r\n
+comment2.params=
+comment2.target=void\ spielen()
+comment2.text=\r\n\ Starte\ das\ Spiel\ und\ lasse\ es\ durchlaufen\r\n
+comment3.params=
+comment3.target=boolean\ gewonnen()
+comment3.text=\r\n\ Kontroliere,\ ob\ es\ einen\ Gewinner\ gibt.\r\n\ @return\ gibt\ es\ einen\ gewinner?\r\n
+comment4.params=
+comment4.target=boolean\ runde()
+comment4.text=\r\n\ F\u00FChre\ eine\ einzelne\ Runde\ des\ Spiels\ durch\r\n\ @return\ gab\ es\ in\ dieser\ Runde\ einen\ Gewinner?\r\n
+comment5.params=spieler
+comment5.target=void\ zug(Panzer)
+comment5.text=\r\n\ F\u00FChre\ einen\ einzelnen\ Zugs\ eines\ Spielers\ durch\r\n\ @param\ spieler\ Der\ Spieler,\ der\ am\ Zug\ ist\r\n
+numComments=6

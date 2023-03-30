@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hindernis
+comment0.text=\r\n\ Ein\ Hindernis\ auf\ dem\ Spielfeld\r\n\r\n\ @author\ Lina\ &\ Strawberry\r\n\ @version\ 0.0.1\r\n
+comment1.params=sp\ xp\ yp\ zeichen\ karte
+comment1.target=Hindernis(int,\ int,\ int,\ char,\ Karte)
+comment1.text=\r\n\ Konstruiere\ ein\ Hindernis\r\n\ @param\ sp\ Die\ Initiale\ Anzahl\ an\ leben\ des\ Hindernisses,\ -1\ stellt\ unsterblich\ dar.\r\n\ @param\ xp\ Die\ X-Position\ des\ Hinternisses\r\n\ @param\ yp\ Die\ Y-Position\ des\ Hinternisses\r\n\ @param\ zeichen\ Das\ zeichen,\ mit\ dem\ das\ Hindernis\ auf\ dem\ Spielfeld\ angezeigt\ wird\r\n\ @param\ karte\ Die\ Karte,\ auf\ der\ das\ Hindernis\ existiert\r\n
+comment2.params=schaden
+comment2.target=void\ treffer(int)
+comment2.text=\r\n\ Das\ Hindernis\ wird\ getroffen.\r\n\ @param\ schaden\ Wie\ viel\ Schaden\ macht\ der\ Schuss\r\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Feldobjekt
+comment0.text=\r\n\ Diese\ Klasse\ beschreibt\ ein\ Objekt\ auf\ dem\ Spielfeld\r\n\r\n\ @author\ Lina\ &\ Strawberry\r\n\ @version\ 0.0.1\r\n
+comment1.params=xp\ yp\ zeichen\ karte
+comment1.target=Feldobjekt(int,\ int,\ char,\ Karte)
+comment1.text=\r\n\ @param\ xp\ Die\ Initiale\ X-Koordinate\ des\ Objektes\r\n\ @param\ yp\ Die\ Initiale\ Y-Koordinate\ des\ Objektes\r\n\ @param\ zeichen\ Das\ zeichen\ mit\ dem\ dieses\ Objekt\ dargestellt\ wird.\r\n\ @param\ karte\ Die\ Karte,\ auf\ der\ sich\ dieses\ Objekt\ befindet.\r\n
+comment2.params=schaden
+comment2.target=void\ treffer(int)
+comment2.text=\r\n\ \ Was\ soll\ Passieren,\ wenn\ das\ Objekt\ getroffen\ wird?\r\n\ @param\ schaden\ Wie\ viel\ Schaden\ macht\ der\ Schuss\r\n
+comment3.params=
+comment3.target=char\ getZeichen()
+comment3.text=\r\n\ Bekomme\ das\ Zeichen,\ mit\ dem\ dieses\ Feldobjekt\ angezeigt\ werden\ soll.\r\n\ @return\ Das\ zeichen,\ f\u00FCr\ die\ Anzeige\ auf\ dem\ Spielfeld\r\n
+comment4.params=xp\ yp
+comment4.target=void\ setPos(int,\ int)
+comment4.text=\r\n\ Setze\ die\ Position\ des\ Objektes\r\n\ @param\ xp\ Die\ neue\ X-Position\ des\ Objektes\r\n\ @param\ yp\ Die\ neue\ Y-Position\ des\ Objektes\r\n
+comment5.params=
+comment5.target=int\ getX()
+comment5.text=\r\n\ Bekomme\ die\ X-Position\ des\ Objektes\r\n\ @return\ die\ X-Position\ des\ Objektes\r\n
+comment6.params=
+comment6.target=int\ getY()
+comment6.text=\r\n\ Bekomme\ die\ Y-Position\ des\ Objektes\r\n\ @return\ die\ Y-Position\ des\ Objektes\r\n
+numComments=7
